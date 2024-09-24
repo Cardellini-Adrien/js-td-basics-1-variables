@@ -7,3 +7,9 @@ Affichez dans la console :
 // Votre prénom (chaîne)
 
 // Votre âge (nombre)
+
+const firstname = "Adrien"
+
+const age = 19
+
+console.log (firstname+age)
